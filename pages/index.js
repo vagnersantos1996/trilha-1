@@ -5,6 +5,7 @@ export default class extends Component {
 		return (
 			<>
 				<h1>Title</h1>
+				<div>adasdf</div>
 			</>
 		)
 	}
